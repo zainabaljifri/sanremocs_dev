@@ -66,8 +66,8 @@ const RESOURCES = {
 "assets/Assets/Images/workshop_tickets.png": "a17a1c1fa39391d2cd1e655602974bff",
 "assets/FontManifest.json": "9a3fd6a92cf0e1b10b47b01497f8f312",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/Languages/ar.json": "88654e428ca36eec6ab9c25785895868",
-"assets/Languages/en.json": "3a536fcd9104ec144ecc3bd7d0154623",
+"assets/Languages/ar.json": "247fa829bec3e65ff462b0e069e39e09",
+"assets/Languages/en.json": "56ee0b2ad24acf7bfaf1a7bb6c96fa82",
 "assets/NOTICES": "7eb1ae8d956899356f32952726e92426",
 "assets/packages/cool_alert/assets/flare/error_check.flr": "d9f54791d0d79935d22206966707e4b3",
 "assets/packages/cool_alert/assets/flare/info_check.flr": "f6b81c2aa3ae36418c13bfd36d11ac04",
@@ -91,9 +91,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "d06ecf624a586519ff176e186158cfae",
-"/": "d06ecf624a586519ff176e186158cfae",
-"main.dart.js": "eda93089d607ce5ae4409dfba8b7a639",
+"index.html": "c4aef506bf0172ed075e1688f2441bed",
+"/": "c4aef506bf0172ed075e1688f2441bed",
+"main.dart.js": "60a198bafca13c659ac34cafa4f42909",
 "manifest.json": "3f92a849556967510ecd50602f08bc15",
 "version.json": "5e129f52952a920d64681e367187e4ef"
 };
