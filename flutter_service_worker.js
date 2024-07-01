@@ -3,13 +3,14 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "3630bd74f41847716286b3e68f463b58",
+  "assets/AssetManifest.json": "9f833f7307d5eac5e29d7de746155ed9",
 "assets/Assets/fonts/Poppins-Bold.ttf": "08c20a487911694291bd8c5de41315ad",
 "assets/Assets/fonts/Poppins-Medium.ttf": "bf59c687bc6d3a70204d3944082c5cc0",
 "assets/Assets/fonts/Poppins-Regular.ttf": "093ee89be9ede30383f39a899c485a82",
 "assets/Assets/fonts/Poppins-SemiBold.ttf": "6f1520d107205975713ba09df778f93f",
 "assets/Assets/Images/accounting.png": "1c3c8c056e82fccdecf00599570c00bf",
 "assets/Assets/Images/accounting_tickets.jpg": "aae1cc83b81bb9eeedd22c3fe28a3faa",
+"assets/Assets/Images/ai_tickets.png": "697fc8959348ade336e31230ced40cd7",
 "assets/Assets/Images/assigned.png": "95a232dadd265012e3e24db21b82fd51",
 "assets/Assets/Images/assigned_tickets.jpg": "639ea91611a090e792a188a021766d48",
 "assets/Assets/Images/awaiting%2520curioer.jpg": "2584876e356d915b7a8e66c0318e2393",
@@ -91,9 +92,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "c4aef506bf0172ed075e1688f2441bed",
-"/": "c4aef506bf0172ed075e1688f2441bed",
-"main.dart.js": "60a198bafca13c659ac34cafa4f42909",
+"index.html": "1a36a3547edc76cd13a04e321f7741f2",
+"/": "1a36a3547edc76cd13a04e321f7741f2",
+"main.dart.js": "1a662f1882873b6ab1d48786ba814465",
 "manifest.json": "3f92a849556967510ecd50602f08bc15",
 "version.json": "5e129f52952a920d64681e367187e4ef"
 };
